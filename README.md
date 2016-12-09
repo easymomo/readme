@@ -1,5 +1,8 @@
 # WebEd Plugins
-Just download the plugin, places it in folder **/plugins**. Very easy, right?
+- Download the plugin, places it in folder **/plugins**.
+- Login to dashboard --> **Plugins** --> Enable and install plugin.
+
+Enjoy!
 
 ####Plugins list
 - [WebEd blog](https://github.com/webed-plugins/blog)
